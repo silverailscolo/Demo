@@ -6,9 +6,12 @@ There should me more to this!
 * More
 * And even more (added in branch)
 Add a line in branch 1
+Add another line in branch test1
 # But never the twain shall meet
 Add a line in branch 2
 And another one
+[space]
 Here's branch 3
+>>>>>>> master
 
 Egbert
