@@ -5,5 +5,6 @@ There should me more to this!
 * But is a pull request started automatically? We'll see.
 * More
 * And even more (added in branch)
+Add a line in branch 1
 
 Egbert
