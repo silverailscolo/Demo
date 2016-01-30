@@ -9,5 +9,6 @@ Add a line in branch 1
 # But never the twain shall meet
 Add a line in branch 2
 And another one
+Here's branch 3
 
 Egbert
