@@ -7,5 +7,9 @@ There should me more to this!
 * And even more (added in branch)
 Add a line in branch 1
 Add another line in branch test1
+# But never the twain shall meet
+Add a line in branch 2
+And another one
+>>>>>>> master
 
 Egbert
